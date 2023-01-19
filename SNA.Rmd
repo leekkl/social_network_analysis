@@ -1,0 +1,10 @@
+---
+title: "SNA"
+output: html_document
+date: "2023-01-19"
+---
+
+```{r}
+library
+```
+
